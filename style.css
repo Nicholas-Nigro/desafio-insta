@@ -1,41 +1,27 @@
 .eu{
-    width: 300px;
-    height: 300px;
+    width: 290px;
+    height: 290px;
     border-radius: 100%;
     position: absolute;
-    top: 5px;
+    top: 30px;
     left: 10px;
 }
 .user{
-    text-align: center;
-}
-.publi{
-    text-align: center;
     position: absolute;
     left: 350px;
+    top: 3px;
+}
 
-}
-.seguid{
-    text-align: center;
-    position: absolute;
-    left: 590px;
-}
-.seguindo{
-    text-align: center;
-    position: absolute;
-    left: 830px;
-
-}
 .bio{
     position: absolute;
-    left: 100px;
-    top: 310px;
+    left: 350px;
+    top: 80px;
 
 }
 .bio2{
     position: absolute;
-    left: 100px;
-    top: 290px;
+    left: 350px;
+    top: 60px;
 
 }
 
